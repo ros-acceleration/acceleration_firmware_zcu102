@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>acceleration_firmware_zcu102</name>
+  <version>0.5.0</version>
+  <description>
+    Xilinx's vendor-specific pre-generated firmware to accelerate ROS 2 robotic applications. 
+    The package contains firmware artifacts for selected boards in different branches.
+  </description>
+  <maintainer email="victorma@xilinx.com">Víctor Mayoral Vilches</maintainer>
+  <author email="victorma@xilinx.com">Víctor Mayoral Vilches</author>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>acceleration_firmware</build_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

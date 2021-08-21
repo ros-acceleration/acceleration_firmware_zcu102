@@ -1,0 +1,6 @@
+[submodule "firmware/imagebuilder"]
+	path = firmware/imagebuilder
+	url = https://github.com/vmayoral/imagebuilder
+[submodule "firmware/ipxe"]
+	path = firmware/ipxe
+	url = https://github.com/ipxe/ipxe
