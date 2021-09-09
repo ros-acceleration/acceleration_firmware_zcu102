@@ -2,6 +2,10 @@
 Changelog for package acceleration_firmware_xilinx
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.0 (2021-09-09)
+-------------------
+* Re-ship firmware, include submodules
+
 0.5.0 (2021-06-03)
 -------------------
 * Add Apache 2.0 LICENSE
