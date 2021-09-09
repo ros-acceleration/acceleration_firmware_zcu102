@@ -16,7 +16,7 @@ According to [REP-2008's proposal](https://github.com/ros-infrastructure/rep/pul
 |------------|--------|
 | **`1.` Kernel Levels** | |
 | [`1.i` level I kernels](https://ros.org/reps/rep-2008.html#i) | ✓ |
-| [`1.ii` level II kernels](https://ros.org/reps/rep-2008.html#ii) | :warning: (see [this](https://github.com/Lien182/ReconROS)) |
+| [`1.ii` level II kernels](https://ros.org/reps/rep-2008.html#ii) | :warning: |
 | [`1.iii` level III kernels](https://ros.org/reps/rep-2008.html#iii) |  |
 | **`2.` Build System** | |
 | [`2.i` ament extensions](https://ros.org/reps/rep-2008.html#id13) | ✓ |
