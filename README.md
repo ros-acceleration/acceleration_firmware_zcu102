@@ -12,7 +12,7 @@ This repository provides Xilinx's firmware artifacts for the ZCU102 board meant 
 
 According to [REP-2008's proposal](https://github.com/ros-infrastructure/rep/pull/324).
 
-| Capability | Status |
+| Capability | KRS `alpha`[^1] |
 |------------|--------|
 | **`1.` Kernel Levels** | |
 | [`1.i` level I kernels](https://ros.org/reps/rep-2008.html#i) | ✓ |
@@ -47,6 +47,8 @@ According to [REP-2008's proposal](https://github.com/ros-infrastructure/rep/pul
 | **`6.` Testing and CI** | |
 | [`6.i` `acceleration_examples` ](https://ros.org/reps/rep-2008.html#id21) | ✓ |
 
+
+[^1]: Aligns with Vitis 2020.2 release.
 
 ### Quality Declaration
 
